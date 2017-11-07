@@ -15,7 +15,7 @@ Teaching Team:
 
 You can find course resources in the **Resources Folder**. 
 
-Please create your own repositories for your final projects **GitHubusername_edXusername_FinalProject**.
+Please create your own **public repositories** for your final projects **GitHubusername_edXusername_FinalProject**.
 
 We look forward to seeing your projects!
 
