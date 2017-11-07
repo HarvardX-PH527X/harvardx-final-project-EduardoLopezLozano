@@ -3,15 +3,15 @@
 Course link: https://www.edx.org/course/principles-statistical-computational-harvardx-ph527x
 
 Teaching Team:
-*Dr. Curtis Huttenhower
-*Dr. John Quakenbush
-*Dr. Lorenzo Trippa
-*Dr. Christine Choirat
-*Dr. Heather Mattie
-*Ilaria Domenicano
-*Kelvin Fong
-*Dr. Sarah Anoke
-*Tiffany Wong
+* Dr. Curtis Huttenhower
+* Dr. John Quakenbush
+* Dr. Lorenzo Trippa
+* Dr. Christine Choirat
+* Dr. Heather Mattie
+* Ilaria Domenicano
+* Kelvin Fong
+* Dr. Sarah Anoke
+* Tiffany Wong
 
 You can find course resources in the **Resources Folder** 
 Please create your own folder in the **Final Projects** folder
