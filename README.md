@@ -15,7 +15,9 @@ Teaching Team:
 
 You can find course resources in the **Resources Folder**. 
 
-Please create your own **public repositories** for your final projects **GitHubusername_edXusername_FinalProject**.
+Please upload your final project files **here in this private repository**. 
+
+Make sure you included your github username in the space provided on the  <a href="https://studio.edx.org/container/block-v1:HarvardX+PH527x+3T2017+type@vertical+block@72d49e24b9984669980e9f884396e9ac"> final project page </a> and give access to your graders.
 
 We look forward to seeing your projects!
 
